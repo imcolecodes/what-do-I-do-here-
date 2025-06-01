@@ -17,3 +17,5 @@ I just started the 4th lesson in relational database and I still haven't finishe
 I finally finished the lesson I started yesterday in freecodecamp. It was a five project lesson and where I make four different type of projects and then compiled them all in the fifth one. After finishing that, I then started the next lesson which was similar to the 2nd lesson and the 1st project I made. It was related to databases and such and I just finished it a few minutes ago, I am now thinking of starting the next one because as it turns out it was a 2 part lesson. I just decided to update this first because the wifi might be turned off a few moments later. (5.30.25 10:22pm)
 
 I just finished the part 2 lesson from last night and I am now doing the project (5.31.25 9:18pm)
+
+nothing 
