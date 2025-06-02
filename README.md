@@ -18,4 +18,6 @@ I finally finished the lesson I started yesterday in freecodecamp. It was a five
 
 I just finished the part 2 lesson from last night and I am now doing the project (5.31.25 9:18pm)
 
-nothing 
+nothing (6.1.25) 
+
+Just to give more context about yesterday, I did not do much lol and I was running out of time to write yesterday because the wifi was about to be turned off. I did finish most of the project I was working on, I only needed to do the querying.sh file and I was done. Unfortunately, I took a break and the next thing I know is I'm watching a series and I just finished the series around 5pm today (I started the series yesterday morning and I finshed it at 5pm today). After that I fortunately had the motivation to continue the project which I HAVE FINALLY FINISHED! I also looked back in my entries here and realized it's been a week since I started this relational database course and I've done more that the HTML course I've started years ago. It made me realize that maybe data analytics is really for me. I do hope to turn into a data scientist or data engineer once I've mastered data analytics. I will finish this course within this week and then I'll start another data related course. (6.2.25 10:21pm)
