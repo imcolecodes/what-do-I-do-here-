@@ -27,3 +27,5 @@ I almost forgot to update here today. I just discovered this morning that I used
 Again, I did not accomplish anything today. I did check out the other courses offered in freecodecamp then went back to scrolling in tiktok and I just started watching 'One Day' a few minutes ago lol. (6.4.25 10:24pm)
 
 I finally started the data visualization course on fCC a few minutes ago and so far I've finished 2 lessons. My goal right now is to finish this course before June 26 because by then I would have credits in gitpod to finish the relational database course. (6.5.25 9:06pm)
+
+Another unproductive day. (6.6.25 10:03)
