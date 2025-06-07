@@ -29,3 +29,5 @@ Again, I did not accomplish anything today. I did check out the other courses of
 I finally started the data visualization course on fCC a few minutes ago and so far I've finished 2 lessons. My goal right now is to finish this course before June 26 because by then I would have credits in gitpod to finish the relational database course. (6.5.25 9:06pm)
 
 Another unproductive day. (6.6.25 10:03)
+
+Guess what? Another unproductive day for me! But hey, it's a weekend so I'm giving  myself a break, I'll get back on monday. (6.7.25 9:08pm)
