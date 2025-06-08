@@ -31,3 +31,5 @@ I finally started the data visualization course on fCC a few minutes ago and so 
 Another unproductive day. (6.6.25 10:03)
 
 Guess what? Another unproductive day for me! But hey, it's a weekend so I'm giving  myself a break, I'll get back on monday. (6.7.25 9:08pm)
+
+Well another unproductive day but I just finished 2 lessons in the data visualization course on fCC. (6.8.25 9:12pm)
