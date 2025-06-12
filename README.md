@@ -39,3 +39,5 @@ So I was still unproductive today, but I am cramming stuff right now in freecode
 So yesterday I said I encountered a problem in the data visualization course on fCC, before totally giving up I first posted my problem in their forum. I came back today and saw that my post has an answer and I finally knew what was wrong with my code. Very grateful to that person who helped me. I am now back on track. Also I just tried coding this evening 'cause I went out today then lazed around for a few hours after returning home. (6.10.25 9:18pm)
 
 Nothing. (6.11.25 10:45pm)
+
+Nothing. again. But I am currently trying to finish some lessons in data visualization in fCC right now (6. 12. 25 9:21pm)
