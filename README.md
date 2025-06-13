@@ -41,3 +41,5 @@ So yesterday I said I encountered a problem in the data visualization course on 
 Nothing. (6.11.25 10:45pm)
 
 Nothing. again. But I am currently trying to finish some lessons in data visualization in fCC right now (6. 12. 25 9:21pm)
+
+I did a bit of data visualization. (6.13.25 9:57pm)
