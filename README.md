@@ -47,3 +47,5 @@ I did a bit of data visualization. (6.13.25 9:57pm)
 Honestly? I did nothing today, well I did cram some data visualization lessons, and I mean 1 or 2 lessons lol. (6.14.25 9:37pm)
 
 Guess what? nothing again. (6.15.25 9:10pm)
+
+I did do some lessons in data visualization yesterday, maybe one or two. Today, FINALLY, I finished one course in data visualization. I guess that's a win for today. (6.16.25 8:55pm)
