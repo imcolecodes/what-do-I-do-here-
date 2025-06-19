@@ -53,3 +53,5 @@ I did do some lessons in data visualization yesterday, maybe one or two. Today, 
 And again, I did nothing today. (6.17.25 8:50pm)
 
 Nothing. (6.18.25 10:10pm)
+
+I think I was productive today. I did try to continue the next lesson in data visualization but I did not find it interesting so I started something else. I started the legacy javascript algorithims and data structures certification program and so far I'm learning basic javascript. I am enjoying it as of the moment. I also decided to try the basic SQL certification in HackerRank and I passed. I thing that's a good day today. (6.19.25 9:25pm)
