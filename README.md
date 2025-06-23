@@ -61,3 +61,5 @@ I earned my first badge in HackerRank today! (6.20.25 9:55pm)
 Nooothinggg. (6.21.25 9:29pm)
 
 [TO FURTHER ELABORATE ABOUT YESTERDAY, After writing my entry last night I then went on to try the intermediate SQL certification on HackerRank. I failed, I ran out of time trying to figure out how to solve the second question that involved three tables. Now I know to always prepare first before taking a certification test.] Now for what I did today, I found two websites that offer SQL lessons. One was free, it was SQLBolt and I am now at lesson five, but it does not offer a certificate. The other one also offers free lessons, it's Codecademy, but you do need to pay to get a certificate. (6.22.25 10:00pm)
+
+I finished one lesson on SQLBolt. That was it. (6.23.25 7:49pm)
