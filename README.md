@@ -63,3 +63,5 @@ Nooothinggg. (6.21.25 9:29pm)
 [TO FURTHER ELABORATE ABOUT YESTERDAY, After writing my entry last night I then went on to try the intermediate SQL certification on HackerRank. I failed, I ran out of time trying to figure out how to solve the second question that involved three tables. Now I know to always prepare first before taking a certification test.] Now for what I did today, I found two websites that offer SQL lessons. One was free, it was SQLBolt and I am now at lesson five, but it does not offer a certificate. The other one also offers free lessons, it's Codecademy, but you do need to pay to get a certificate. (6.22.25 10:00pm)
 
 I finished one lesson on SQLBolt. That was it. (6.23.25 7:49pm)
+
+I just opened my HackerRank account today after taking the intermediate SQL certification and I was shooked when I saw that I passed it because the certificate was already shown in my profile. Other than that I did nothing, but 1 more day to go before I get more free credits in gitpod so I can finish the SQL certification in fCC. (6.24.25 8:43PM)
