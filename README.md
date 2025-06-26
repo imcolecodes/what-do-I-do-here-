@@ -67,3 +67,5 @@ I finished one lesson on SQLBolt. That was it. (6.23.25 7:49pm)
 I just opened my HackerRank account today after taking the intermediate SQL certification and I was shooked when I saw that I passed it because the certificate was already shown in my profile. Other than that I did nothing, but 1 more day to go before I get more free credits in gitpod so I can finish the SQL certification in fCC. (6.24.25 8:43PM)
 
 Nothing again. (6.25.25 9:07pm)
+
+I can't believe I forgot to update this yesterday, well I can't change that now. Anyway, I now have credits in gitpod and now I can finish that relational database certification in fCC. (6.27.25 6:58am)
