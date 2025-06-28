@@ -69,3 +69,5 @@ I just opened my HackerRank account today after taking the intermediate SQL cert
 Nothing again. (6.25.25 9:07pm)
 
 I can't believe I forgot to update this yesterday, well I can't change that now. Anyway, I now have credits in gitpod and now I can finish that relational database certification in fCC. (6.27.25 6:58am)
+
+Still pissed off that I forgot to update this the other day and now my green streak has come to an end. It reduced my motivation to update this but fortunately I'm still here today. BTW I did nothing today. (6.28.25 9:29pm)
